@@ -2,7 +2,6 @@
 
 Pawli is a cute, animated desktop companion that lives on your screen. Written in C++ using native Windows APIs and Direct2D, it's lightweight, efficient, and adorable.
 
-![Pawli Demo](Assets/preview.png)
 
 ## ✨ Features
 
