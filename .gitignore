@@ -1,0 +1,37 @@
+# Visual Studio temporary files, build results, and cache
+.vs/
+.vscode/
+bin/
+obj/
+x64/
+x86/
+Debug/
+Release/
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.exe
+*.exp
+*.lib
+*.tlog
+*.log
+
+# C++ specific
+*.cod
+*.suo
+*.user
+*.idb
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+
+# Windows temp files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python (if any scripts used)
+__pycache__/
+*.pyc
