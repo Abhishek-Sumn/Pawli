@@ -1,0 +1,10 @@
+{
+    "idleTimeoutMs": 8000,
+    "walkSpeed": 50.0,
+    "walkChance": 0.6,
+    "sleepChance": 0.1,
+    "followDesktopDelayMs": 150,
+    "normalFps": 30,
+    "idleFps": 10,
+    "sleepFps": 2
+}

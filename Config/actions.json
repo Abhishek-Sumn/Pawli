@@ -1,0 +1,43 @@
+{
+    "Idle": {
+        "canTransitionTo": [
+            "Walk",
+            "Sleep",
+            "React",
+            "PickedUp"
+        ],
+        "weight": 1.0
+    },
+    "Walk": {
+        "canTransitionTo": [
+            "Idle",
+            "PickedUp"
+        ],
+        "weight": 0.6
+    },
+    "Sleep": {
+        "canTransitionTo": [
+            "Idle",
+            "PickedUp"
+        ],
+        "weight": 0.1
+    },
+    "React": {
+        "canTransitionTo": [
+            "Idle"
+        ],
+        "weight": 1.0
+    },
+    "PickedUp": {
+        "canTransitionTo": [
+            "Placed"
+        ],
+        "weight": 1.0
+    },
+    "Placed": {
+        "canTransitionTo": [
+            "Idle"
+        ],
+        "weight": 1.0
+    }
+}
