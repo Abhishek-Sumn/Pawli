@@ -1,7 +1,6 @@
 # Visual Studio temporary files, build results, and cache
 .vs/
 .vscode/
-bin/
 obj/
 x64/
 x86/
